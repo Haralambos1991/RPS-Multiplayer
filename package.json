@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "echo 'build script executed' "
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Haralambos1991/RPS-Multiplayer/issues"
   },
-  "homepage": "https://github.com/Haralambos1991/RPS-Multiplayer#readme"
+  "homepage": "https://github.com/Haralambos1991/RPS-Multiplayer#readme",
+  "dependencies": {
+    "modules": "^0.4.0",
+    "node": "^12.7.0"
+  }
 }
