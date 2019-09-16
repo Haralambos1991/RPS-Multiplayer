@@ -10,10 +10,13 @@ Homework, week 5, UC Berkeley coding boot camp
 
 # Languages used
 
-1) HTML
-2) CSS(media queries, font-awesome, animations)
-3)JavaScript/jQuery
-4)Firebase for persistant storage
+ HTML
+
+ CSS(media queries, font-awesome, animations)
+
+JavaScript/jQuery
+
+Firebase for persistant storage
 
 # How to play
 
