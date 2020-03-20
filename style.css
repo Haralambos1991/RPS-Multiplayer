@@ -6,7 +6,7 @@
 
 section {
     height: 100vh;
-    background-color: white;
+    background-color: rgb(39, 41, 68);
     font-family: sans-serif;
 }
 
@@ -35,7 +35,7 @@ section {
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
-    opacity: 0;
+    transition: opacity 0.5 ease;
 }
 
 .intro h1 {
@@ -75,4 +75,9 @@ section {
 
 .player-hand {
     transform: rotateY(180deg);
+}
+
+div.fadeOut {
+    opacity: 0;
+    pointer-events: all;
 }
